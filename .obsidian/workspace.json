@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "cd53d7d7b2a9ab60",
+    "id": "99d2d68a4fe7bfc6",
     "type": "split",
     "children": [
       {
-        "id": "b9fdac62e5e55f73",
+        "id": "54a29363716e2319",
         "type": "tabs",
         "children": [
           {
-            "id": "3c449a841531aa02",
+            "id": "5f540dd63371f170",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "ac05bfc620e5ec38",
+    "id": "7afc5815bb01a9f3",
     "type": "split",
     "children": [
       {
-        "id": "3ac9a43f07e6a4ee",
+        "id": "5d86812825600fe0",
         "type": "tabs",
         "children": [
           {
-            "id": "227e6f7f4be67fb0",
+            "id": "abbd7faadb25e8bc",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "04bb562782568aa6",
+            "id": "4cd6d40776d02532",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "5f69c13273c658ae",
+            "id": "10e05787a0b3ab85",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -69,19 +69,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "7c343cf5731f4dce",
+    "id": "7970f114bae7872d",
     "type": "split",
     "children": [
       {
-        "id": "795e58dabfcf3f38",
+        "id": "0ece872f6d4600a0",
         "type": "tabs",
         "children": [
           {
-            "id": "39afbecc3074e180",
+            "id": "b2bd665dce69853e",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -98,7 +97,7 @@
             }
           },
           {
-            "id": "4d8c26ea9da62be2",
+            "id": "69f1686087f7d194",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -110,7 +109,7 @@
             }
           },
           {
-            "id": "2041e0c642835c08",
+            "id": "268111af0b8d55b9",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -121,7 +120,7 @@
             }
           },
           {
-            "id": "0104c3921471c9d6",
+            "id": "2eedc082e7e37465",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -129,17 +128,8 @@
                 "file": "VIM/使用指南.md"
               }
             }
-          },
-          {
-            "id": "6e0d91d998643641",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -157,14 +147,8 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3c449a841531aa02",
+  "active": "5f540dd63371f170",
   "lastOpenFiles": [
-    "Python/数的存取.md",
-    "VIM/使用指南.md",
-    "VIM",
-    "Python/浮点数为什么会存在误差.md",
-    "波波指北.md",
-    "Python",
-    "未命名.canvas"
+    "README.md"
   ]
 }
