@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "54a29363716e2319",
+        "id": "795f9b2e10b36cf0",
         "type": "tabs",
         "children": [
           {
-            "id": "5f540dd63371f170",
+            "id": "25c698ec6b4053fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mermaid/Mermaid-learn.md",
+                "file": "Python/Note/小数在内存中的存取.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,13 +64,21 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "d9e3d2978356ce15",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7970f114bae7872d",
@@ -86,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mermaid/Mermaid-learn.md",
+                "file": "Python/Note/小数在内存中的存取.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mermaid/Mermaid-learn.md",
+                "file": "Python/Note/小数在内存中的存取.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mermaid/Mermaid-learn.md"
+                "file": "Python/Note/小数在内存中的存取.md"
               }
             }
           }
@@ -148,9 +156,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5f540dd63371f170",
+  "active": "25c698ec6b4053fa",
   "lastOpenFiles": [
-    "VIM/使用指南.md",
-    "README.md"
+    "Python/Note/浮点数为什么会存在误差.md",
+    "Python/Note/小数在内存中的存取.md",
+    "Python/Note/数的存取.md",
+    "Ob/Ob的引用用法.md",
+    "README.md",
+    "Ob",
+    "MatLab/对兼容数组的运算.md",
+    "1.md",
+    "MatLab",
+    "Mermaid/Mermaid-learn.md",
+    "VIM/使用指南.md"
   ]
 }

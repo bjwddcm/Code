@@ -1,6 +1,11 @@
 {
-  "blue-topaz-theme@@color-scheme-options": "null",
+  "blue-topaz-theme@@color-scheme-options": "color-scheme-options-default",
   "blue-topaz-theme@@paragraph-spacing": 1.5,
   "blue-topaz-theme@@line-height-main": 1.4,
-  "blue-topaz-theme@@text-indentation-two-em": true
+  "blue-topaz-theme@@text-indentation-two-em": true,
+  "blue-topaz-theme@@h1-text-align-settings": "h1-text-align-center",
+  "blue-topaz-theme@@clutter-free-headings": true,
+  "blue-topaz-theme@@background-image-settings-switch": false,
+  "blue-topaz-theme@@background-settings-workplace-background-image": true,
+  "blue-topaz-theme@@background-settings-workplace-theme-light": "background-settings-workplace-theme-light-blue-mountain"
 }
